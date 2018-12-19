@@ -17,7 +17,7 @@ $(document).ready(function() {
 
 
     function checkAnswers() {
-        event.preventDefault();
+      
        
         var q1 = document.querySelector('[name=q1]:checked').value;
         var q2 = document.querySelector('[name=q2]:checked').value;
@@ -61,6 +61,9 @@ $(document).ready(function() {
 
 
     }
+
+    setTimeout(function(){ checkAnswers(); }, 10000);
+
 
 
    
