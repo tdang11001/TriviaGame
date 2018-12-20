@@ -55,6 +55,7 @@ $(document).ready(function () { // run the ready function after all of the HTML 
        1000 milliseconds = 1 second */
     setTimeout(function () { alert("Your 3 seconds is up!"), checkAnswers(); }, 3000); 
 
+    
     /* I dont know know how to write the JavaScript code for a countdown timer.
        I did not want to copy and paste JS countdown time code from Google so I am going to write a pseudocode for it  */
     
