@@ -57,6 +57,7 @@ $(document).ready(function () { // run the ready function after all of the HTML 
 
     
     /* I dont know know how to write the JavaScript code for a countdown timer.
+       I spent a very, very long time Googling on how to implement a countdown timer, but I was unsuccessful.
        I did not want to copy and paste JS countdown time code from Google so I am going to write a pseudocode for it  */
     
     /* countdown timer pseudocode
