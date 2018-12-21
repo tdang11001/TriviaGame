@@ -53,7 +53,7 @@ $(document).ready(function () { // run the ready function after all of the HTML 
     /* after certain time has passed, run this code.
        run the alert function after 30 seconds have passed, and run the checkAnswers function.
        1000 milliseconds = 1 second */
-    setTimeout(function () { alert("Your 3 seconds is up!"), checkAnswers(); }, 30000); 
+    setTimeout(function () { alert("Your 30 seconds is up!"), checkAnswers; }, 30000); 
 
     
     /* I dont know know how to write the JavaScript code for a countdown timer.
